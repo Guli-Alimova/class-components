@@ -12,3 +12,5 @@ export type Products = {
   images: []
   price: number
 }
+
+  
